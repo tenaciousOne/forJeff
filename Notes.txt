@@ -1,0 +1,13 @@
+
+VIDEO/SOUND OPTIONS
+1. EMBED
+    + simple and easy.  
+    + start and end times
+    - no easy reset
+    - requires use to embed 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nBHkIWAJitg?rel=0&amp;showinfo=0&amp;start=51;end=55" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+2. 
+
+
+nBHkIWAJitg
